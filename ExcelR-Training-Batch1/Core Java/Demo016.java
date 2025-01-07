@@ -18,11 +18,11 @@ public class Demo016{
                 i = i+1;
                 j = j-1;
         }
-            if(flag == 0){
-                System.out.println("Palindrome");
-            }else{
-                System.out.println("Not a Palindrome");
-            }
+         if(flag == 0){
+            System.out.println("Palindrome");
+        }else{
+            System.out.println("Not a Palindrome");
         }
-
     }
+
+}
